@@ -7,7 +7,7 @@ body {
   
   /** HEADER **/
   #header-nav {
-	background-color: gray;
+	background-color: black;
 	border-radius: 0;
 	border: 0;
   }
@@ -18,7 +18,7 @@ body {
   }
   .navbar-brand h2 { /* Restaurant name */
 	font-family: 'Lora', serif;
-	color: black;
+	color: white;
 	font-size: 1.5em;
 	text-transform: uppercase;
 	font-weight: bold;
@@ -33,11 +33,11 @@ body {
 
  
   #nav-list a {
-	color: black;
+	color: white;
 	text-align: center;
   }
   #nav-list a:hover {
-	background: #E7E7E7;
+	background: black;
   }
   #nav-list a span {
 	font-size: 1.8em;
@@ -59,8 +59,9 @@ body {
 	margin-top: 30px;
 	padding-top: 35px;
 	padding-bottom: 30px;
-	background-color: gray;
+	background-color: black;
 	border-top: 0;
+	color: white;
   }
   .panel-footer div.row {
 	margin-bottom: 35px;
@@ -72,7 +73,7 @@ body {
 	font-size: 1.3em;
   }
   #address p {
-	color: black;
+	color: white;
 	font-size: .8em;
 	line-height: 1.8;
   }
